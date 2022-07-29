@@ -25,7 +25,7 @@ body{
   
 }
 
-
+/* removed the margin in the contianer class */
 .container {
   background-color: var(--white);
   width: 22rem;
